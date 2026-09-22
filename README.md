@@ -1,6 +1,6 @@
 # User Settings Manager
 
-A command-line Python module for managing a dictionary of user configuration settings — add, update, delete, and view settings, with input validation and clear feedback messages for every action.
+A command-line Python module for managing a dictionary of user configuration settings ; add, update, delete, and view settings, with input validation and clear feedback messages for every action.
 
 ## Overview
 
